@@ -10,6 +10,6 @@ When("clicar no botao calendario completo", () => {
    CalendarIBGE.ClickCalendar();
 });
 
-Then("verei o calendario do ano de 2023", () => {
+Then("verei o calendario do ano de 2024", () => {
    CalendarIBGE.verifyPage();
 });
